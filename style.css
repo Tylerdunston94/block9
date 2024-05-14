@@ -1,0 +1,21 @@
+header {
+
+-moz-animation-name: none;
+background-color: lightgreen;
+text: size adjust 60px;
+text-decoration: wavy;
+text-align: center;
+
+}
+body{
+    background-color: rgb(156, 62, 62);
+    text-shadow: 10cm;
+    text-size-adjust: 30px;
+    border-top: 15px;
+    border-image: round;
+}
+
+h1{
+    border: 10px;
+    border-color: darkorange;
+}
